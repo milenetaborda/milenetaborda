@@ -8,7 +8,7 @@ Sou um FullStack Developer :computer:
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, pinturas, CS1.6, e seriados
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Rock'n Roll, CS1.6, e seriados
  <br/>
  <br/>
  
