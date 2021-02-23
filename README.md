@@ -2,7 +2,7 @@
 
 ### Olá pessoal 👋
 Sou apaixonada por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou uma FullStack Developer :computer:
 <img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
